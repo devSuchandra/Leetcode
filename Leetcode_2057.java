@@ -2,8 +2,6 @@ package DSA.Leetcode.Leetcode;
 
 public class Leetcode_2057 {
     public static int smallestEqual(int[] nums) {
-        int minIndex = -1;
-        int index = 0, index2 = 0; 
         for(int i = 0; i<nums.length; i++){
             if(i % 10 == nums[i]){
                 System.out.println(i);
