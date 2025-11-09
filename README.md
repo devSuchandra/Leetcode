@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/devSuchandra/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/devSuchandra/Leetcode/tree/master/0242-valid-anagram) |
 | [0941-sort-array-by-parity](https://github.com/devSuchandra/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/devSuchandra/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 ## Simulation
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/devSuchandra/Leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/devSuchandra/Leetcode/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
@@ -44,4 +46,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/devSuchandra/Leetcode/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/devSuchandra/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
