@@ -4,7 +4,7 @@ class Solution {
         maxArea = 0;
 
         while(start < end){
-            int area = Math.min(height[start], height[end]) * Math.abs(start - end);
+            int area = Math.min(height[start], height[end]) * (end - start);
             //minHeightOfBar * width
 
             maxArea = Math.max(maxArea, area);
