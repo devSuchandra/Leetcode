@@ -39,6 +39,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/devSuchandra/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/devSuchandra/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/devSuchandra/Leetcode/tree/master/0242-valid-anagram) |
 ## Binary Search
@@ -79,4 +80,8 @@
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/devSuchandra/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/devSuchandra/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
