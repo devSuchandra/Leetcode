@@ -93,5 +93,6 @@
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/devSuchandra/Leetcode/tree/master/1114-print-in-order) |
+| [1116-print-zero-even-odd](https://github.com/devSuchandra/Leetcode/tree/master/1116-print-zero-even-odd) |
 | [1195-fizz-buzz-multithreaded](https://github.com/devSuchandra/Leetcode/tree/master/1195-fizz-buzz-multithreaded) |
 <!---LeetCode Topics End-->
