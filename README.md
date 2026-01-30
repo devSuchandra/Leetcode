@@ -89,4 +89,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/devSuchandra/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Concurrency
+|  |
+| ------- |
+| [1195-fizz-buzz-multithreaded](https://github.com/devSuchandra/Leetcode/tree/master/1195-fizz-buzz-multithreaded) |
 <!---LeetCode Topics End-->
