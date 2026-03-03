@@ -69,6 +69,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/devSuchandra/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/devSuchandra/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/devSuchandra/Leetcode/tree/master/0231-power-of-two) |
 ## Tree
 |  |
 | ------- |
@@ -95,4 +96,12 @@
 | [1114-print-in-order](https://github.com/devSuchandra/Leetcode/tree/master/1114-print-in-order) |
 | [1116-print-zero-even-odd](https://github.com/devSuchandra/Leetcode/tree/master/1116-print-zero-even-odd) |
 | [1195-fizz-buzz-multithreaded](https://github.com/devSuchandra/Leetcode/tree/master/1195-fizz-buzz-multithreaded) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/devSuchandra/Leetcode/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/devSuchandra/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
