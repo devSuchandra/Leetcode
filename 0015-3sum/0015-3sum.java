@@ -5,9 +5,9 @@ class Solution {
         for(int i = 0; i<nums.length - 2; i++){
             int start = i + 1;
             int end = nums.length - 1;
-            // if(i >0 && nums[i] == nums[i - 1]){
-            //     continue;
-            // }
+            if(i >0 && nums[i] == nums[i - 1]){
+                continue;
+            }
             while(start < end){
                 if(nums[i] + nums[start] + nums[end] < 0){
                     start++;
